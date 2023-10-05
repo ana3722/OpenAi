@@ -6,7 +6,7 @@ Chatgpt OpenAI implementation throught Javascript and Node.js Codes
 2. Initialize npm into your terminal with npm init
 3. install the official packege of API -> npm i aopenAI
 
-File expplanation:
+
 .env -> contains the API Key
 Index.js -> contains the code to do OCR, it is able to search specific keywords and extract the data
 index0.js -> to test if the API Key is working, asking the chatbot it's name
