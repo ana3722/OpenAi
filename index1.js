@@ -1,7 +1,7 @@
 import * as fs from "fs";
 import OpenAI from "openai";
 const openai = new OpenAI({
-  apiKey: "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",
+  apiKey: "",
 });
 
 async function analyzeORCImageOutput(fileName) {
